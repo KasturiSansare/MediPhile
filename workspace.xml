@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f343ccb7-39df-4e0e-b991-2d73170c67f1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_3_XL_API_29" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pHiox3lALEzfoMP1KhL7YPdOt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/lib/display" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/home" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\home" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\login" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\settings" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\image_upload" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\display" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\home" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\display" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\domains" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\settings" />
+      <recent name="C:\Users\kirti\AndroidStudioProjects\medapp\lib\close_circle" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f343ccb7-39df-4e0e-b991-2d73170c67f1" name="Default Changelist" comment="" />
+      <created>1614846594907</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614846594907</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="176" key="com.intellij.ide.util.TipDialog" timestamp="1634110857214">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="359" y="176" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1634110857214" />
+  </component>
+</project>
